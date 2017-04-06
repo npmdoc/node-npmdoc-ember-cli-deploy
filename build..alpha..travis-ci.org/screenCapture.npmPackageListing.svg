@@ -1,32 +1,32 @@
 <svg height="462" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="462" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-06 20:28:49 +0000    84686 byte  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-06 20:28:49 +0000    22023 byte  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-06 20:28:49 +0000      326 byte  CODE_OF_CONDUCT.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-06 20:28:49 +0000     1066 byte  LICENSE.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-06 20:28:49 +0000     3478 byte  MIGRATING_FROM_0_0_x_TO_0_4_x.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-06 20:28:49 +0000     1050 byte  README.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-06 20:28:49 +0000     2420 byte  UPGRADE_TO_0.5.x.md</tspan>
-<tspan x="10" y="138">  7.  2017-04-06 20:28:49 +0000     1985 byte  bin/changelog</tspan>
-<tspan x="10" y="154">  8.  2017-04-06 20:28:49 +0000      837 byte  blueprints/ember-cli-deploy/files/config/deploy.j\</tspan>
+<tspan x="10" y="26">  0.  2017-04-06 20:30:21 +0000    84686 byte  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-06 20:30:21 +0000    22023 byte  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-06 20:30:21 +0000      326 byte  CODE_OF_CONDUCT.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-06 20:30:21 +0000     1066 byte  LICENSE.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-06 20:30:21 +0000     3478 byte  MIGRATING_FROM_0_0_x_TO_0_4_x.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-06 20:30:21 +0000     1050 byte  README.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-06 20:30:21 +0000     2420 byte  UPGRADE_TO_0.5.x.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-06 20:30:21 +0000     1985 byte  bin/changelog</tspan>
+<tspan x="10" y="154">  8.  2017-04-06 20:30:21 +0000      837 byte  blueprints/ember-cli-deploy/files/config/deploy.j\</tspan>
 <tspan x="10" y="170">s</tspan>
-<tspan x="10" y="186">  9.  2017-04-06 20:28:49 +0000      567 byte  blueprints/ember-cli-deploy/index.js</tspan>
-<tspan x="10" y="202"> 10.  2017-04-06 20:28:49 +0000       78 byte  config/environment.js</tspan>
-<tspan x="10" y="218"> 11.  2017-04-06 20:28:49 +0000     1385 byte  index.js</tspan>
-<tspan x="10" y="234"> 12.  2017-04-06 20:28:49 +0000     2151 byte  lib/commands/activate.js</tspan>
-<tspan x="10" y="250"> 13.  2017-04-06 20:28:49 +0000     2377 byte  lib/commands/deploy.js</tspan>
-<tspan x="10" y="266"> 14.  2017-04-06 20:28:49 +0000      135 byte  lib/commands/index.js</tspan>
-<tspan x="10" y="282"> 15.  2017-04-06 20:28:49 +0000     2227 byte  lib/commands/list.js</tspan>
-<tspan x="10" y="298"> 16.  2017-04-06 20:28:49 +0000      334 byte  lib/helpers/option-value.js</tspan>
-<tspan x="10" y="314"> 17.  2017-04-06 20:28:49 +0000     1973 byte  lib/models/deprecated-plugin-registry.js</tspan>
-<tspan x="10" y="330"> 18.  2017-04-06 20:28:49 +0000     5467 byte  lib/models/pipeline.js</tspan>
-<tspan x="10" y="346"> 19.  2017-04-06 20:28:49 +0000    10865 byte  lib/models/plugin-registry.js</tspan>
-<tspan x="10" y="362"> 20.  2017-04-06 20:28:49 +0000      209 byte  lib/models/task.js</tspan>
-<tspan x="10" y="378"> 21.  2017-04-06 20:28:49 +0000     1460 byte  lib/tasks/deploy.js</tspan>
-<tspan x="10" y="394"> 22.  2017-04-06 20:28:49 +0000     2759 byte  lib/tasks/pipeline.js</tspan>
-<tspan x="10" y="410"> 23.  2017-04-06 20:28:49 +0000     1798 byte  lib/tasks/read-config.js</tspan>
-<tspan x="10" y="426"> 24.  2017-04-06 20:28:49 +0000     3471 byte  package.json</tspan>
-<tspan x="10" y="442"> 25.  2017-04-06 20:28:49 +0000    14245 byte  rfc/plugins.md</tspan>
+<tspan x="10" y="186">  9.  2017-04-06 20:30:21 +0000      567 byte  blueprints/ember-cli-deploy/index.js</tspan>
+<tspan x="10" y="202"> 10.  2017-04-06 20:30:21 +0000       78 byte  config/environment.js</tspan>
+<tspan x="10" y="218"> 11.  2017-04-06 20:30:21 +0000     1385 byte  index.js</tspan>
+<tspan x="10" y="234"> 12.  2017-04-06 20:30:21 +0000     2151 byte  lib/commands/activate.js</tspan>
+<tspan x="10" y="250"> 13.  2017-04-06 20:30:21 +0000     2377 byte  lib/commands/deploy.js</tspan>
+<tspan x="10" y="266"> 14.  2017-04-06 20:30:21 +0000      135 byte  lib/commands/index.js</tspan>
+<tspan x="10" y="282"> 15.  2017-04-06 20:30:21 +0000     2227 byte  lib/commands/list.js</tspan>
+<tspan x="10" y="298"> 16.  2017-04-06 20:30:21 +0000      334 byte  lib/helpers/option-value.js</tspan>
+<tspan x="10" y="314"> 17.  2017-04-06 20:30:21 +0000     1973 byte  lib/models/deprecated-plugin-registry.js</tspan>
+<tspan x="10" y="330"> 18.  2017-04-06 20:30:21 +0000     5467 byte  lib/models/pipeline.js</tspan>
+<tspan x="10" y="346"> 19.  2017-04-06 20:30:21 +0000    10865 byte  lib/models/plugin-registry.js</tspan>
+<tspan x="10" y="362"> 20.  2017-04-06 20:30:21 +0000      209 byte  lib/models/task.js</tspan>
+<tspan x="10" y="378"> 21.  2017-04-06 20:30:21 +0000     1460 byte  lib/tasks/deploy.js</tspan>
+<tspan x="10" y="394"> 22.  2017-04-06 20:30:21 +0000     2759 byte  lib/tasks/pipeline.js</tspan>
+<tspan x="10" y="410"> 23.  2017-04-06 20:30:21 +0000     1798 byte  lib/tasks/read-config.js</tspan>
+<tspan x="10" y="426"> 24.  2017-04-06 20:30:21 +0000     3471 byte  package.json</tspan>
+<tspan x="10" y="442"> 25.  2017-04-06 20:30:21 +0000    14245 byte  rfc/plugins.md</tspan>
 </text>
 </svg>
