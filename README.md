@@ -98,7 +98,8 @@
         "autotest": "node node_modules/mocha/bin/mocha --watch --reporter spec node-tests/**/*-test.js",
         "test": "node node_modules/mocha/bin/mocha node-tests/**/*-test.js"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
